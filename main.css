@@ -1,0 +1,42 @@
+h1{
+    color:red;
+    background-color:#000000;
+    font-size: small;
+    text-align: right;
+  }
+  h2{
+    color:rgb(255,255,255);
+    background-color: hsl(120 50% 30%);
+    font-weight:lighter;
+    text-decoration:underline wavy;
+  }
+  h3{
+    background-color:yellow;
+    font-style:oblique;
+    line-height: 5;
+    word-spacing: 10px;
+  }
+  p{
+    color: hsl(260 100% 65%);
+    font-variant:small-caps;
+  }
+  ul{
+    background-color: #FFB7B7;
+    letter-spacing:2px;
+  }
+  ol{
+    color:lightgray;
+    background-color: hsl(78 65% 100%);
+    letter-spacing: .056em;
+    
+  }
+  html{
+    background-color:hsla(303, 85%, 34%, 1);
+  }
+  em{
+    text-transform:uppercase;
+  }
+  strong{
+    text-shadow: 1px 1px 1px white;
+  }
+  
